@@ -1,0 +1,1 @@
+Package Codix Auth - configure config.php then upload to PHP-enabled host. See create_users_table.sql
